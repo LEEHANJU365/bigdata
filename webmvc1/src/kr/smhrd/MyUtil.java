@@ -1,5 +1,5 @@
 package kr.smhrd;
-
+//1~10까지의 총합을 구하는 동작
 public class MyUtil {
 	public int hap() {
 		int sum=0;
